@@ -1,0 +1,3 @@
+Запуск программы
+python ex3.py -a ADDRESS -p port1,port2,port3,... 
+add flag -u for UDP
